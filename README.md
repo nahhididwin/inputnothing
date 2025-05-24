@@ -9,3 +9,5 @@ Minecraft Bedrock Username : UwUNguU
 
 Minecraft Bedrock Username : Potato348169
 
+Osu : https://osu.ppy.sh/users/37056199
+
