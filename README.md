@@ -27,3 +27,5 @@ Osu Username : https://osu.ppy.sh/users/37056199
 Zyo : https://zyo.lol/inputnothing
 
 Discord Server (VNBWP) : https://discord.gg/bhtTNfjeGR
+
+Youtube : https://www.youtube.com/channel/UCP_Oo1p5gdvkuIae93LW5SA
