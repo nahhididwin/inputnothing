@@ -6,6 +6,12 @@ idk what to say
 
 Discord Username : nahhididwin
 
+Reddit : https://www.reddit.com/u/Beautiful-Yellow7326
+
+Xbox 1 : UwUNguU
+
+Xbox 2 : Potato348169
+
 Minecraft Java Edition Username : UwU_NguU
 
 Minecraft Java Edition Username : UwUNguU
