@@ -1,4 +1,9 @@
 # About Me
+
+idk what to say
+
+# Social media accounts:
+
 Discord Username : nahhididwin
 
 Minecraft Java Edition Username : UwU_NguU
