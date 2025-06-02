@@ -6,6 +6,8 @@ idk what to say
 
 Discord Username : nahhididwin
 
+Paypal : Không Gì Cả
+
 Reddit : https://www.reddit.com/u/Beautiful-Yellow7326
 
 Xbox 1 : UwUNguU
