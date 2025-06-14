@@ -16,6 +16,11 @@ Xbox 2 : Potato348169
 
 Minecraft Java Edition Username : UwU_NguU
 
+PlayerDB Minecraft 1 :playerdb.co/api/player/minecraft/UwUNguU
+
+PlayerDB Minecraft 2 :playerdb.co/api/player/minecraft/UwU_NguU
+
+
 Minecraft Java Edition Username : UwUNguU
 
 Minecraft Bedrock Edition Username : UwUNguU
