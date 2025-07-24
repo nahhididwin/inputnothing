@@ -27,7 +27,7 @@ Minecraft Bedrock Edition Username : UwUNguU
 
 Minecraft Bedrock Edition Username : Potato348169
 
-Osu Profile : [https://osu.ppy.sh/users/37056199](https://osu.ppy.sh/users/38212810)
+Osu Profile : https://osu.ppy.sh/users/38212810
 
 Zyo : https://zyo.lol/inputnothing
 
