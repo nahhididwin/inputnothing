@@ -1,6 +1,6 @@
 # About Me
 
-i'm from Vietnam 🇻🇳 :3.
+i'm from Vung Tau City (I think it is now called Ho Chi Minh), Vietnam 🇻🇳 :3.
 
 # Social media accounts:
 
