@@ -1,6 +1,6 @@
 # About Me
 
-idk what to say
+i'm from Vietnam 🇻🇳 :3.
 
 # Social media accounts:
 
