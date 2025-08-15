@@ -2,7 +2,7 @@
 
 i'm from Vung Tau City (I think it is now called Ho Chi Minh City), Vietnam 🇻🇳 :3.
 
-Date of birth: 20/06/2011 (DD/MM/YYYY)
+Date of birth: 20/06/9999999 (DD/MM/YYYY)
 
 # Social media accounts:
 
