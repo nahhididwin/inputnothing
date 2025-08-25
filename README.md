@@ -4,6 +4,8 @@ i'm from Vung Tau City (I think it is now called Ho Chi Minh City), Vietnam 🇻
 
 Date of birth: 20/06/999999 (DD/MM/YYYYYY)
 
+If you need to code minecraft server java plugins; code python; write algorithms; create AI (deep learning, ML, etc);... or anything else, inbox me, I will help you (if u pay me some money hjhj).
+
 # Social media accounts:
 
 Discord Username : nahhididwin
