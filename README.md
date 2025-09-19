@@ -47,3 +47,8 @@ Youtube : https://www.youtube.com/channel/UCP_Oo1p5gdvkuIae93LW5SA
 
 
 Zalo : +84 901 201 585
+
+If you want to talk to me using Zalo, make sure you use my encryption (AES-256) here: https://github.com/nahhididwin/AES-256-GCM-TypeP/blob/main/Encoder/experiment/replace-getpass/main.py
+
+The current public password for using AES-256 to encrypt and decrypt my messages (subject to regular updates) is: aes256ecodingthischatandverysafebecausethisisendtoendencodesoilovethiswithcodeis:25**@^7^&8
+
