@@ -46,7 +46,7 @@ Youtube : https://www.youtube.com/channel/UCP_Oo1p5gdvkuIae93LW5SA
 
 
 
-+ Zalo : +84 901 201 585
+Zalo : +84 901 201 585
 
 + If you want to talk to me using Zalo, make sure you use my encryption (AES-256) here: https://github.com/nahhididwin/AES-256-GCM-TypeP/blob/main/Encoder/experiment/replace-getpass/main.py
 
