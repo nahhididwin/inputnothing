@@ -54,3 +54,4 @@ Zalo : +84 901 201 585
 
 + The current public password for using AES-256 to encrypt and decrypt my messages (subject to regular updates) is: aes256ecodingthischatandverysafebecausethisisendtoendencodesoilovethiswithcodeis:25**@^7^&8(@(gj@jg(gddgj29g2jg2go2gj2ij89()26738962292j2j292h2h2h;2h'2h2]h2[]2h[2h2h;2\\
 
++ If I trust you enough, you will get the secret password.
