@@ -52,5 +52,5 @@ Zalo : +84 901 201 585
 
 + https://github.com/nahhididwin/AES-256-GCM-TypeP/blob/main/Encoder/experiment/replace-getpass/main.py
 
-+ The current public password for using AES-256 to encrypt and decrypt my messages (subject to regular updates) is: aes256ecodingthischatandverysafebecausethisisendtoendencodesoilovethiswithcodeis:25**@^7^&8
++ The current public password for using AES-256 to encrypt and decrypt my messages (subject to regular updates) is: aes256ecodingthischatandverysafebecausethisisendtoendencodesoilovethiswithcodeis:25**@^7^&8(@(gj@jg(gịdgijG92G9GJ9G9J9DSGSOGSOGĐLDGL":''FSG919816761+_":ư{}
 
