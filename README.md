@@ -4,7 +4,7 @@ i'm from Vung Tau City (I think it is now called Ho Chi Minh City), Vietnam 🇻
 
 u can call me "Hưng".
 
-Date of birth: 20/06/999999 (DD/MM/YYYYYY)
+Date of birth: 20/06/0 (DD/MM/Y)
 
 # Social media accounts:
 
