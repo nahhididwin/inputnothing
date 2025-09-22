@@ -6,8 +6,6 @@ u can call me "Hưng".
 
 Date of birth: 20/06/999999 (DD/MM/YYYYYY)
 
-If you need to code minecraft server java plugins; code python; write algorithms; create (deep learning, ML, etc);... or anything else, inbox me, I will help you if i want.
-
 # Social media accounts:
 
 Github Repositories : https://github.com/nahhididwin?tab=repositories
