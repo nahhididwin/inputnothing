@@ -4,7 +4,9 @@ i'm from Vung Tau City (I think it is now called Ho Chi Minh City), Vietnam 🇻
 
 u can call me "Hưng" or "Hung".
 
-Date of birth: 20/06/0 (DD/MM/Y)
+Date of birth: 20/06 (DD/MM)
+
+Project I am working on: https://github.com/nahhididwin/Hung_WAIRNI
 
 # Social media accounts:
 
