@@ -10,7 +10,7 @@ Project I am working on: https://github.com/nahhididwin/Hung_WAIRNI
 
 Listen with me: https://youtu.be/Mkwn5MHsJa0?list=RDMkwn5MHsJa0
 
-Hope to be supported in: Quantum Mechanics, Quantum Physics, Programming, Mathematics (Calculus), Machine Learning, Deep Learning, Reptile (Meta-learning OpenAI), Model Agnostic-Meta learning.
+Hope to be supported in: Quantum Mechanics, Quantum Physics, Programming, Mathematics (Calculus), Machine Learning, Deep Learning, Reptile (Meta-learning OpenAI), Model-Agnostic Meta-learning.
 
 
 # Social media accounts:
