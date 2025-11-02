@@ -25,7 +25,7 @@ Zyo : https://zyo.lol/inputnothing
 
 
 
-
+Facebook, Messenger ,etc,..v.v ? : I usually text via P2P (peer to peer network) network or through a manually programmed intermediary server by myself, so I don't use anything like this :v.
 
 
 
