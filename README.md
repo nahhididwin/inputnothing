@@ -10,7 +10,7 @@ Date of birth: 20/06 (DD/MM)
 
 Listen with me: https://youtu.be/Mkwn5MHsJa0?list=RDMkwn5MHsJa0
 
-Hope to be supported in: Quantum Mechanics, Quantum Physics, Programming, Mathematics (Calculus), Machine Learning, Deep Learning, Reptile (Meta-learning OpenAI), Model-Agnostic Meta-learning.
+Hope to be supported in: Quantum Mechanics, Quantum Physics, Programming, Mathematics (Calculus), Machine Learning, Deep Learning, Reptile (Meta-learning OpenAI), Model-Agnostic Meta-learning (yea MAML).
 
 bio : Tôi bị ngu nhưng được cái hay sủa bậy và không được khóa mõm cẩn thận, cân nhắc. Đừng để tôi lên cơn dại.
 
