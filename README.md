@@ -8,7 +8,7 @@ Date of birth: 20/06 (DD/MM)
 
 **Project I am working on : https://github.com/nahhididwin/Hung_WAIRNI**
 
-Listen with me: https://youtu.be/Mkwn5MHsJa0?list=RDMkwn5MHsJa0
+Listen with me: https://youtu.be/lvJo07YZIfI
 
 Hope to be supported in: Quantum Mechanics, Quantum Physics, Programming, Mathematics (Calculus), Machine Learning, Deep Learning, Reptile (Meta-learning OpenAI), Model-Agnostic Meta-learning (yea MAML).
 
