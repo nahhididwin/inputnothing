@@ -6,7 +6,7 @@ u can call me "Hưng" or "Hung".
 
 Date of birth: 20/06 (DD/MM)
 
-**Project I am working on : https://github.com/nahhididwin/Hung_WAIRNI**
+**Project I am working on (very stupid) : https://github.com/nahhididwin/Hung_WAIRNI**
 
 Listen with me: https://youtu.be/lvJo07YZIfI
 
