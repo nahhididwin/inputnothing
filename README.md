@@ -17,7 +17,18 @@ bio : tôi xài java 8, đúng rách :3
 
 # Social media accounts:
 
-Github Repositories : https://github.com/nahhididwin?tab=repositories
+**My community:**
+
+Discord : discord.mineknight.club
+
+IP (minecraft java 1.8) : mineknight.club
+
+Website : www.mineknight.club
+
+Website open source code: https://github.com/nahhididwin/vnbwp
+
+
+**Github Repositories : https://github.com/nahhididwin?tab=repositories**
 
 Discord Username : nahhididwin
 
