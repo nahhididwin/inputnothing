@@ -30,7 +30,7 @@ Website open source code: https://github.com/nahhididwin/vnbwp
 
 **Github Repositories : https://github.com/nahhididwin?tab=repositories**
 
-Discord Username : nahhididwin
+Discord Username : nahhididwin ; my friend : avxs_
 
 Osu Profile : https://osu.ppy.sh/users/38212810
 
