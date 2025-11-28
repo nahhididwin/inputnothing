@@ -12,7 +12,7 @@ Listen with me: https://youtu.be/lvJo07YZIfI
 
 Hope to be supported in: Quantum Mechanics, Quantum Physics, Programming, Mathematics (Calculus), Machine Learning, Deep Learning, Reptile (Meta-learning OpenAI), Model-Agnostic Meta-learning (yea MAML).
 
-bio : tôi xài java 8, đúng rách :3 
+bio : Silent flag really makes me prone to wrong banning, fck.
 
 
 # Social media accounts:
