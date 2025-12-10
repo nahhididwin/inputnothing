@@ -12,8 +12,7 @@ Listen with me: https://youtu.be/lvJo07YZIfI
 
 Hope to be supported in: Quantum Mechanics, Quantum Physics, Programming, Mathematics (Calculus), Machine Learning, Deep Learning, Reptile (Meta-learning OpenAI), Model-Agnostic Meta-learning (yea MAML).
 
-bio : aww~~ hi!
-
+bio : tại sao mấy thk coder thường hay tâm thần vậy :3, nhiều khi là chưa húp đủ i4 mà cứ phán cx nên, gặp suốt, entropy cao quá mà
 
 # Social media accounts:
 
