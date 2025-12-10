@@ -37,16 +37,7 @@ Zyo : https://zyo.lol/inputnothing
 
 Arxiv (arXiv.org e-Print archive) : ghttraining@outlook.com | Phu Hung Dang Dinh 
 
-Facebook, Messenger ,etc,..v.v ? : I usually text via P2P (peer to peer network) network or through a manually programmed intermediary server by myself, so I don't use anything like this :v.
 
+**AES-256:**
 
-
-Zalo (VN) : +84 901 201 585
-
-+ If you want to talk to me using Zalo, make sure you use my encryption (AES-256) here: 
-
-+ https://github.com/nahhididwin/AES-256-GCM-TypeP/blob/main/Encoder/experiment/replace-getpass/main.py
-
-+ The current public password for using AES-256 to encrypt and decrypt my messages (subject to regular updates) is: aes256ecodingthischatandverysafebecausethisisendtoendencodesoilovethiswithcodeis:25**@^7^&8(@(gj@jg(gddgj29g2jg2go2gj2ij89()26738962292j2j292h2h2h;2h'2h2]h2[]2h[2h2h;2\\
-
-+ If I trust you enough, you will get the secret password.
+https://github.com/nahhididwin/AES-256-GCM-TypeP/blob/main/Encoder/experiment/replace-getpass/main.py
