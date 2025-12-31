@@ -10,21 +10,11 @@ Date of birth: 20/06 (DD/MM)
 
 Listen with me: https://youtu.be/lvJo07YZIfI
 
-Hope to be supported in: Quantum Mechanics, Quantum Physics, Programming, Mathematics (Calculus), Machine Learning, Deep Learning, Reptile (Meta-learning OpenAI), Model-Agnostic Meta-learning (yea MAML).
 
 bio : RAGE
 
 # Social media accounts:
 
-**My community:**
-
-Discord : discord.mineknight.club
-
-IP (minecraft java 1.8) : mineknight.club
-
-Website : www.mineknight.club
-
-Website open source code: https://github.com/nahhididwin/vnbwp
 
 
 **Github Repositories : https://github.com/nahhididwin?tab=repositories**
@@ -35,7 +25,7 @@ Osu Profile : https://osu.ppy.sh/users/38212810
 
 Zyo : https://zyo.lol/inputnothing
 
-Arxiv (arXiv.org e-Print archive) : ghttraining@outlook.com | Phu Hung Dang Dinh 
+Arxiv (arXiv.org e-Print archive) : ghttraining@outlook.com 
 
 
 **AES-256:**
