@@ -6,7 +6,11 @@ u can call me "Hưng" or "Hung".
 
 Date of birth: 20/06 (DD/MM)
 
-**Project I am working on (very stupid) : https://github.com/nahhididwin/Continuous-Wavelet-Transform**
+**Project I am working on (very stupid) :**
+
+(WT) https://github.com/nahhididwin/Continuous-Wavelet-Transform
+
+(PC) https://github.com/nahhididwin/Phantom-Collector
 
 Listen with me: https://youtu.be/lvJo07YZIfI
 
