@@ -8,7 +8,7 @@ Date of birth: 20/06 (DD/MM)
 
 **Project I am working on (very stupid) :**
 
-(WT) https://github.com/nahhididwin/Continuous-Wavelet-Transform
+(CWT) https://github.com/nahhididwin/Continuous-Wavelet-Transform
 
 (PC) https://github.com/nahhididwin/Phantom-Collector
 
