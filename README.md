@@ -15,7 +15,18 @@ Date of birth: 20/06 (DD/MM)
 Listen with me: https://youtu.be/lvJo07YZIfI
 
 
-bio : RAGE
+bio : RAGE :3
+
+What I can help with: 
+
+Determine whether any software is a virus/rat/trojan/malware/... with near-perfect accuracy.
+
+Continuous Wavelet Transform
+
+Design a method to bypass EDR/AV (Windows Security 2025-2026) (only if it is legitimate).
+
+
+
 
 # Social media accounts:
 
