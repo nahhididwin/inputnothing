@@ -4,7 +4,10 @@ i'm from Vung Tau City (I think it is now called Ho Chi Minh City), Vietnam 🇻
 
 u can call me "Hưng" or "Hung".
 
-Date of birth: 20/06 (DD/MM)
+
+**bio :** RAGE :3
+
+**Date of birth: 20/06 (DD/MM)**
 
 **Project I am working on (very stupid) :**
 
@@ -12,10 +15,8 @@ Date of birth: 20/06 (DD/MM)
 
 (PC) https://github.com/nahhididwin/Phantom-Collector
 
-Listen with me: https://youtu.be/lvJo07YZIfI
+**Listen with me:** https://youtu.be/lvJo07YZIfI
 
-
-bio : RAGE :3
 
 **What I can help with:**
 
