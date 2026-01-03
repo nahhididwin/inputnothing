@@ -26,7 +26,7 @@ Continuous Wavelet Transform
 
 Design a method to bypass EDR/AV (Windows Security 2025-2026) (only if it is legitimate).
 
-#1 at creating knockback configurations for Carbonspigot in VN. :vn:
+#1 at creating knockback configurations for Carbonspigot in VN. :vn: 
 
 
 # Social media accounts:
