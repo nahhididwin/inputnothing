@@ -13,7 +13,6 @@ u can call me "Hưng" or "Hung".
 
 (CWT) https://github.com/nahhididwin/Continuous-Wavelet-Transform
 
-(PC) https://github.com/nahhididwin/Phantom-Collector
 
 **Listen with me:** https://youtu.be/r0HK5HZCScY?list=RD_Q3cPGepovc
 
@@ -24,7 +23,6 @@ Determine whether any software is a virus/rat/trojan/malware/... with near-perfe
 
 Continuous Wavelet Transform
 
-Design a method to bypass EDR/AV (Windows Security 2025-2026) (only if it is legitimate).
 
 #1 at creating knockback configurations for Carbonspigot in VN. :vn: 
 
