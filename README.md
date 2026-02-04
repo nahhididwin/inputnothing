@@ -13,6 +13,7 @@ u can call me "Hưng" or "Hung".
 
 (CWT) https://github.com/nahhididwin/Continuous-Wavelet-Transform
 
+(LIGA) https://github.com/nahhididwin/LIGA?tab=readme-ov-file
 
 **Listen with me:** https://youtu.be/r0HK5HZCScY?list=RD_Q3cPGepovc
 
