@@ -34,7 +34,7 @@ Continuous Wavelet Transform
 
 **Github Repositories : https://github.com/nahhididwin?tab=repositories**
 
-Discord Username : nahhididwin ; my friend : avxs_
+Discord Username : nahhididwin , rijora_ ; my friend : avxs_ ; 
 
 Osu Profile : https://osu.ppy.sh/users/38212810
 
