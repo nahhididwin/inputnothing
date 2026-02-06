@@ -5,7 +5,7 @@ i'm from Vung Tau City (I think it is now called Ho Chi Minh City), Vietnam 🇻
 u can call me "Hưng" or "Hung".
 
 
-**bio :** RAGE :3. Lycoris Recoil, Chisato, and Takina are the most amazing things I think I've ever seen :D
+**bio :** To cam thay minh chong chap giua viec "BAN" va "ENJOY" :D :3. Lycoris Recoil, Chisato, and Takina are the most amazing things I think I've ever seen :D
 
 
 **Date of birth: 20/06 (DD/MM)**
