@@ -7,7 +7,7 @@ u can call me "Hưng" or "Hung".
 
 **bio :** To cam thay minh chong chap giua viec "BAN" va "ENJOY" :D :3. Lycoris Recoil, Chisato, and Takina are the most amazing things I think I've ever seen :D
 
-**bio 2 :** dm viet paper deo j kho vay,  TAO CHIU :sob:
+**bio 2 :** dm viet paper deo j kho vay,  TAO CHIU :sob: :rage:
 
 **Date of birth: 20/06 (DD/MM)**
 
