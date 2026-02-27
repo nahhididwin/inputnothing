@@ -5,9 +5,9 @@ i'm from Vung Tau City (I think it is now called Ho Chi Minh City), Vietnam 🇻
 u can call me "Hưng" or "Hung".
 
 
-**bio :** To cam thay minh chong chap giua viec "BAN" va "ENJOY" :D :3. Lycoris Recoil, Chisato, and Takina are the most amazing things I think I've ever seen :D
+**bio :** Lycoris Recoil, Chisato, and Takina are the most amazing things I think I've ever seen :D
 
-**bio 2 :** dm viet paper deo j kho vay,  TAO CHIU :sob: :rage:
+
 
 **Date of birth: 20/06 (DD/MM)**
 
@@ -16,6 +16,8 @@ u can call me "Hưng" or "Hung".
 (CWT) https://github.com/nahhididwin/Continuous-Wavelet-Transform
 
 (LIGA) https://github.com/nahhididwin/LIGA?tab=readme-ov-file
+
+(L-Representation) https://github.com/nahhididwin/L-Representation
 
 **Listen with me:** https://youtu.be/r0HK5HZCScY?list=RD_Q3cPGepovc ; https://youtu.be/cYYq3tEi01I ; https://www.youtube.com/watch?v=x8alx0oOE84&pp=ygUYdGjGsMahbmcgdGjhuqdtIHNwZWVkIHVw0gcJCZEKAYcqIYzv
 
