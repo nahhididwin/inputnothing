@@ -19,17 +19,9 @@ u can call me "Hưng" or "Hung".
 
 (L-Representation) https://github.com/nahhididwin/L-Representation
 
+
 **Listen with me:** https://youtu.be/r0HK5HZCScY?list=RD_Q3cPGepovc ; https://youtu.be/cYYq3tEi01I ; https://www.youtube.com/watch?v=x8alx0oOE84&pp=ygUYdGjGsMahbmcgdGjhuqdtIHNwZWVkIHVw0gcJCZEKAYcqIYzv
 
-
-**What I can help with:**
-
-Determine whether any software is a virus/rat/trojan/malware/... with near-perfect accuracy.
-
-Continuous Wavelet Transform
-
-
-#1 at creating knockback configurations for Carbonspigot in VN. :vn: 
 
 
 # Social media accounts:
