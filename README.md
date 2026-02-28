@@ -11,7 +11,7 @@ u can call me "Hưng" or "Hung".
 
 **Date of birth: 20/06 (DD/MM)**
 
-**Project I am working on (very stupid) :**
+**Project I am working on :**
 
 (CWT) https://github.com/nahhididwin/Continuous-Wavelet-Transform
 
