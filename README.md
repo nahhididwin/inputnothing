@@ -15,8 +15,6 @@ u can call me "Hưng" or "Hung".
 
 (CWT) https://github.com/nahhididwin/Continuous-Wavelet-Transform
 
-(LIGA) https://github.com/nahhididwin/LIGA?tab=readme-ov-file
-
 (L-Representation) https://github.com/nahhididwin/L-Representation
 
 
