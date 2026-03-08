@@ -15,8 +15,9 @@ u can call me "Hưng" or "Hung".
 
 (CWT) https://github.com/nahhididwin/Continuous-Wavelet-Transform
 
-(L-Representation) https://github.com/nahhididwin/L-Representation
+(L-Rep) https://github.com/nahhididwin/L-Representation
 
+(MineKnight) https://github.com/nahhididwin/vnbwp?tab=readme-ov-file
 
 **Listen with me:** https://youtu.be/r0HK5HZCScY?list=RD_Q3cPGepovc ; https://youtu.be/cYYq3tEi01I ; https://www.youtube.com/watch?v=x8alx0oOE84&pp=ygUYdGjGsMahbmcgdGjhuqdtIHNwZWVkIHVw0gcJCZEKAYcqIYzv
 
