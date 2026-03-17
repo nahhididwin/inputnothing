@@ -8,7 +8,6 @@ u can call me "Hưng" or "Hung".
 **bio :** Lycoris Recoil, Chisato, and Takina are the most amazing things I think I've ever seen :D
 
 
-
 **Date of birth: 20/06 (DD/MM)**
 
 **Project I am working on (4) :**
@@ -23,6 +22,7 @@ u can call me "Hưng" or "Hung".
 
 **Listen with me:** https://youtu.be/r0HK5HZCScY?list=RD_Q3cPGepovc ; https://youtu.be/cYYq3tEi01I ; https://www.youtube.com/watch?v=x8alx0oOE84&pp=ygUYdGjGsMahbmcgdGjhuqdtIHNwZWVkIHVw0gcJCZEKAYcqIYzv ; https://www.youtube.com/watch?v=w27BkU-vUvE&list=RDw27BkU-vUvE&start_radio=1
 
+**2k5+ commits :** https://github.com/nahhididwin/inputnothing/blob/main/files/Screenshot%202026-03-17%20202130.png
 
 
 # Social media accounts:
