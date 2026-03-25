@@ -12,6 +12,8 @@ u can call me "Hưng" or "Hung".
 
 **Project I am working on (4) :**
 
+(Hungs) : https://github.com/nahhididwin/Hungs/
+
 (CWT) https://github.com/nahhididwin/Continuous-Wavelet-Transform
 
 (L-Rep) https://github.com/nahhididwin/L-Representation
