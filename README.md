@@ -10,15 +10,13 @@ u can call me "Hưng" or "Hung".
 
 **Date of birth: 20/06 (DD/MM)**
 
-**Project I am working on (5) :**
+**Project I am working on (3) :**
 
-(Hungs) : https://github.com/nahhididwin/Hungs/
+(GABA) https://github.com/nahhididwin/GABA
 
 (CWT) https://github.com/nahhididwin/Continuous-Wavelet-Transform
 
-(L-Rep) https://github.com/nahhididwin/L-Representation
 
-(GA-explained) https://github.com/nahhididwin/Geometric-Algebra-Explained
 
 (MineKnight) https://github.com/nahhididwin/vnbwp?tab=readme-ov-file
 
