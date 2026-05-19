@@ -4,7 +4,7 @@ i'm from Vung Tau City (I think it is now called Ho Chi Minh City), Vietnam 🇻
 
 u can call me "Hưng" or "Hung".
 
-**Role :** Thành viên chủ chốt của Mạng Bình Minh (MMB - memaybeo), không có cái gì là tôi không bypass được 😎
+**Role :** Thành viên chủ chốt của **Mạng** Bình Minh (MMB - memaybeo), không có cái gì là tôi không **bypass** được 😎
 
 
 **bio :** Lycoris Recoil, Chisato, and Takina are the most amazing things I think I've ever seen :D
