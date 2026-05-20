@@ -6,7 +6,9 @@ u can call me "Hưng" or "Hung".
 
 **Role :** 
 
-+ Thành viên chủ chốt của **Mạng** Bình Minh (MMB - memaybeo), không có cái gì là tôi không **bypass** được 😎
++ Thành viên chủ chốt của **Mạng** Bình Minh (MMB - memaybeo), không có cái gì là tôi không **bypass** được 😎 (chắc thế)
+
++ bạn thân của ISP (canthanvoitao)
 
 + Top-tier trẻ d*wn, nhot, IQ < 67,36676767676767
 
