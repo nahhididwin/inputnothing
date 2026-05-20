@@ -4,11 +4,11 @@ i'm from Vung Tau City (I think it is now called Ho Chi Minh City), Vietnam 🇻
 
 u can call me "Hưng" or "Hung".
 
-**Role :** 
+**Role (Vai trò có lẽ là có giá trị mà tôi đang có, idk) :** 
 
 + Thành viên chủ chốt của **Mạng** Bình Minh (MMB - memaybeo), không có cái gì là tôi không **bypass** được 😎 (chắc thế)
 
-+ bạn thân của ISP (canthanvoitao)
++ bạn thân của ISP ☠️ (canthanvoitao)
 
 + Top-tier trẻ d*wn, nhot, IQ < 67,36676767676767
 
