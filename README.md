@@ -21,6 +21,8 @@ u can call me "Hưng" or "Hung".
 
 **bio :** Lycoris Recoil, Chisato, and Takina are the most amazing things I think I've ever seen :D
 
+Được rồi bên dưới mới là chi tiết in4 của tôi, mặc dù bị "nhot" nhưng tôi thích ghi tiếng anh cho vjp :
+
 
 **Date of birth: 20/06 (DD/MM)**
 
