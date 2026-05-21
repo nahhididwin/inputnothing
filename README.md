@@ -4,20 +4,6 @@ i'm from Vung Tau City (I think it is now called Ho Chi Minh City), Vietnam 🇻
 
 u can call me "Hưng" or "Hung".
 
-**Role (Vai trò có lẽ là có giá trị mà tôi đang có, idk) :** 
-
-+ Thành viên chủ chốt của **Mạng** Bình Minh (MMB - memaybeo), không có cái gì là tôi không **bypass** được 😎 (chắc thế)
-
-+ bạn thân của ISP ☠️ (canthanvoitao)
-
-+ Top-tier trẻ d*wn, nhot, IQ < 67,36676767676767
-
-+ Independent Researcher (tự phong), chuyên nghịch mấy cái tài liệu nà ná na nà nào đó trên arxiv
-
-+ Mineknight là của t
-
-+ Người theo dõi lâu dài của mấy cái thứ trông cũng hay hay như CWT hay Clifford Algebra, Linear Algebra nào đó, idk :))
-
 
 **bio :** Lycoris Recoil, Chisato, and Takina are the most amazing things I think I've ever seen :D
 
