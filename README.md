@@ -31,6 +31,16 @@ https://www.feynmanlectures.caltech.edu/
 
 https://arxiv.org/pdf/2004.08210
 
+**I usually do these things here:**
+
++ About electricity: Work, Power (electricity), Ohm's Law, Nodal Analysis, Kirchhoff 1 & 2, Joule–Lenz law,..
+
++ About signal processing : Wavelet Transform (CWT)
+
+
+
+
+
 # Social media accounts:
 
 
