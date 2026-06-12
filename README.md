@@ -13,7 +13,7 @@ u can call me "Hưng" or "Hung".
 
 **Project I am working on (3) :**
 
-(GABA) https://github.com/nahhididwin/GABA
+(H's R) https://github.com/nahhididwin/The-research-of-Hung
 
 (CWT) https://github.com/nahhididwin/Continuous-Wavelet-Transform
 
