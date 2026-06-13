@@ -31,7 +31,7 @@ https://www.feynmanlectures.caltech.edu/
 
 https://arxiv.org/pdf/2004.08210
 
-**These are the things I categorize as "formal learning" from school, both the ones I received formal training in and those I learned through self-study, though it's better than "completely self-study of other things":**
+**These are the things I categorize as "formal learning" from school, both the ones I received formal training in and those I learned through self-study, though it's better than "completely self-study of other things":** (idk wtf i'm saying)
 
 + About electricity: Work, Power (electricity), Ohm's Law, Nodal Analysis, Kirchhoff 1 & 2, Joule–Lenz law,..
 
