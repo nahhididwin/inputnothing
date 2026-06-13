@@ -37,7 +37,7 @@ https://arxiv.org/pdf/2004.08210
 
 + About signal processing : Wavelet Transform (CWT)
 
-
++ About (so much of it, idk wat category to put it in) Clifford Algebra, Information Theory, Category Theory, Abstract, complexity theory,.v.v.
 
 
 
