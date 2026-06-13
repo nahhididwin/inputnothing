@@ -31,13 +31,11 @@ https://www.feynmanlectures.caltech.edu/
 
 https://arxiv.org/pdf/2004.08210
 
-**I usually do these things here:**
+**These are the things I categorize as "formal learning" from school, both the ones I received formal training in and those I learned through self-study, though it's better than "completely self-study of other things":**
 
 + About electricity: Work, Power (electricity), Ohm's Law, Nodal Analysis, Kirchhoff 1 & 2, Joule–Lenz law,..
 
 + About signal processing : Wavelet Transform (CWT)
-
-+ About (so much of it, idk wat category to put it in) Clifford Algebra, Information Theory, Category Theory, Abstract, complexity theory,.v.v.
 
 
 
